@@ -1,6 +1,7 @@
 # ANALYZING VEHICLE TRENDS IN THE GLOBAL CAR MARKET
 
 # PROJECT OVERVIEW
+This project aims to explore and analyze trends in the global car market by examining various factors such as vehicle prices, types, and other features. The goal is to uncover key insights that can guide decisions in pricing, marketing strategies, and production planning for automotive businesses.
 
 # PROBLEM STATEMENT
 The global car market is constantly evolving, with significant shifts in consumer preferences, vehicle sales, and technological advancements. Companies and stakeholders in the automotive industry need insights into current trends and factors influencing vehicle popularity. This project aims to analyze trends in the global car market, identifying patterns in vehicle types, sales performance, and other market metrics over time to provide actionable insights for stakeholders.

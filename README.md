@@ -17,16 +17,16 @@ To analyze the global car market trends, we will begin by exploring the distribu
 
 # VISUALIZATIONS
 1. price distribution
-![alt text](image.png)
+![alt text](Images/image.png)
 
 2.Average Price by Year
-![alt text](image-1.png) 
+![alt text](Images/image-1.png) 
 
 3.Mileage vs. Price
-![alt text](image-2.png)
+![alt text](Images/image-2.png)
 
 4. Plot of Fuel Types
-![alt text](image-3.png)
+![alt text](Images/image-3.png)
 
 # TABLEAU
 

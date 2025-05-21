@@ -19,16 +19,18 @@ To analyze the global car market trends, we will begin by exploring the distribu
 1. price distribution
 ![alt text](Images/image.png)
 
+
 2.Average Price by Year
 ![alt text](Images/image-1.png) 
+
 
 3.Mileage vs. Price
 ![alt text](Images/image-2.png)
 
+
 4. Plot of Fuel Types
 ![alt text](Images/image-3.png)
 
-# TABLEAU
 
 # HYPOTHESIS TESTING
 The ANOVA test shows that there are statistically significant differences in the average prices of cars across the different manufacturers in the dataset. Therefore, the manufacturer plays a key role in determining car price variation.
